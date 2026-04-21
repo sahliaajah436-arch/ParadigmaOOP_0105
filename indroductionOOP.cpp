@@ -8,5 +8,6 @@ class Mahasiswa{ //blue print atau cetakan
     float nilai;
     
     void printData(){
+           cout << "Nim : "<< nim << endl;   
     }
 };
